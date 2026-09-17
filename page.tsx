@@ -39,9 +39,13 @@ export default function Home(){
       </div>
       <div className="heroVisual">
         <div className="portrait">
-          <div className="portraitInner">G</div>
-          <div className="stamp">DESI<br/>RAP<br/><b>2026</b></div>
-        </div>
+  <img src="/IMG_20251125_175800_375.webp" alt="Gourab" />
+  <div className="stamp">
+    DESI<br/>
+    RAP<br/>
+    <b>2026</b>
+  </div>
+</div>
       </div>
       <div className="scroll">SCROLL TO EXPLORE ↓</div>
     </section>
